@@ -1,0 +1,23 @@
+{
+  "name": "pennapps2017w",
+  "version": "1.0.0",
+  "description": "CapitalOne test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "create": "node init.js"
+  },
+  "dependencies": {
+    "superagent": "3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terry-wen/PennApps2017w.git"
+  },
+  "author": "Terry Wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terry-wen/PennApps2017w/issues"
+  },
+  "homepage": "https://github.com/terry-wen/PennApps2017w#readme"
+}
